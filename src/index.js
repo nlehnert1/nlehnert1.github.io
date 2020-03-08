@@ -1,10 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-//import "assets/css/bootstrap.min.css";
-//import "assets/css/now-ui-kit.css";
-// import "assets/css/now-ui-kit.min.css";
-// import "assets/css/now-ui-kit.css.map";
-//import "assets/demo/demo.css";
+
 import './index.css';
 import Main from './Main';
 import * as serviceWorker from './serviceWorker';
